@@ -13,9 +13,6 @@ public class Principal {
 		// nuestras apliciones funcionen correctamente
 		Scanner lectura = null;
 
-		System.out.println("Hola mundo");
-		System.out.println("Tienes un 10");
-
 		String marca, so;
 		float precio;
 		int sotock, menuPrinc, subMenu, indice;
